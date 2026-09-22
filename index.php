@@ -6,7 +6,7 @@ include 'includes/header.php';
     <main class="container main-content">
         <section class="hero">
             <div>
-                <p class="hero-tag">Pink beauty studio</p>
+                <p class="hero-tag">  Glam beuty studio</p>
                 <h1>Welcome to The Glam Room</h1>
                 <p>Experience bespoke makeup styling for every occasion. From natural glow to glamorous evening looks, our services create beauty that feels modern, confident, and uniquely you.</p>
                 <div class="hero-actions">
